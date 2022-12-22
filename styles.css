@@ -2,6 +2,7 @@ body{
     background: rgb(35, 35, 35);
     color: white;
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .buttons {
@@ -17,6 +18,7 @@ button {
     -webkit-transition-duration: 0.5s;
     transition-duration: 0.5s;
     background-color: rgb(47, 37, 197);
+    color: white;
     border-radius: 15px;
     padding: 10px;
     margin: 20px;
@@ -51,9 +53,11 @@ button {
     background-color: rgb(67, 67, 67);
     border-radius: 20px;
     min-height: 400px;
+    text-align: left;
+    font-size: 14px;
     width: 250px;
-    margin: 10px;
-    padding: 10px;
+    margin: 15px;
+    padding: 15px;
     box-sizing: border-box;
 
 }
